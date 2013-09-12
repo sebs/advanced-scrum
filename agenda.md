@@ -4,7 +4,6 @@ Every Bullet Point is 25 Minutes + 5 Minutes Break
 
 ## Day 1 - Basics
 
-The first part 
 
 * Intro and Workshop Rules
 * Wishlist - Participants declaring what they need for a successful workshop
@@ -26,5 +25,16 @@ Lunchbreak (Pizza in the Office for all)
 * Relative Weight Exercise - Lets build a relative Weight Backlog out of 10 (Bring your own)Stories
 * Relative Weight Exercise
 * Resolutions
+
+## Day 2 - Advanced
+
+* Intro and Recap
+* 3 ways of estimating
+* 3 ways of estimating
+* Userstories
+* Userstories
+* Userstories
+
+
 
 
