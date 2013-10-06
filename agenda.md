@@ -21,19 +21,24 @@ Lunchbreak (Pizza in the Office for all)
 * Scrum Lego City
 * Scrum Lego City
 * Scrum Lego City
-* Introduction to Relative Weight - Incorporate Value and Risk in your Prio 
-* Relative Weight Exercise - Lets build a relative Weight Backlog out of 10 (Bring your own)Stories
-* Relative Weight Exercise
 * Resolutions
 
 ## Day 2 - Advanced
 
-* Intro and Recap
-* 3 ways of estimating
-* 3 ways of estimating
-* Userstories
-* Userstories
-* Userstories
+* Recap
+* User Stories - Basics 
+* User Stories - Personas
+* User Stories - Acceptance Criteria 
+* Introduction to Relative Weight - Incorporate Value and Risk in your Prio
+* Relative Weight Exercise - Lets build a relative Weight Backlog out of 10 (Bring your own)Stories
+* Relative Weight Exercise
+* Extreme Programming Intro
+
+# Break
+
+* Extreme Programming Practices
+* Extreme Programming Practices
+* 
 
 
 
