@@ -4,7 +4,6 @@ Every Bullet Point is 25 Minutes + 5 Minutes Break
 
 ## Day 1 - Basics
 
-
 * Intro and Workshop Rules
 * Wishlist - Participants declaring what they need for a successful workshop
 * Values + Principles
@@ -28,9 +27,9 @@ Lunchbreak (Pizza in the Office for all)
 * Recap
 * User Stories - Basics 
 * User Stories - Personas
-* User Stories - Acceptance Criteria 
+* User Stories - Acceptance Criteria + Tests 
 * Introduction to Relative Weight - Incorporate Value and Risk in your Prio
-* Relative Weight Exercise - Lets build a relative Weight Backlog out of 10 (Bring your own)Stories
+* Relative Weight Exercise - Lets build a relative Weight Backlog
 * Relative Weight Exercise
 * Resolutions and Learnings
 
@@ -39,8 +38,8 @@ Lunchbreak (Pizza in the Office for all)
 * Extreme Programming Intro
 * Extreme Programming Practices
 * Extreme Programming Practices
-* Coding Dojo
-* Coding Dojo
+* --
+* --
 * Retrospectives - How it works
 * Workshop Retrospective
 * Workshop Retrospective
