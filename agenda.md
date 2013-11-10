@@ -38,16 +38,9 @@ Lunchbreak (Pizza in the Office for all)
 * Extreme Programming Intro
 * Extreme Programming Practices
 * Extreme Programming Practices
-* --
-* --
 * Retrospectives - How it works
 * Workshop Retrospective
 * Workshop Retrospective
 * Conclusions
-
-
-
-
-
 
 
