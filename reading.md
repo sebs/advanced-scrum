@@ -21,7 +21,7 @@
 * [Magic Estimation]( http://campey.blogspot.de/2010/09/magic-estimation.html)
 * [NVC - Non Violent Communication](http://en.wikipedia.org/wiki/Nonviolent_Communication#Modes)
 * [Prime Directive for Retrospectives](http://www.retrospectives.com/pages/retroPrimeDirective.html)
-* [Twelfe Factor App](http://12factor.net/)
+* [Twelve Factor App](http://12factor.net/)
 * [YAGNI]("http://en.wikipedia.org/wiki/You_aren't_gonna_need_it")
 
 
