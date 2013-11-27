@@ -1,5 +1,10 @@
 # Reading List 
 
+## XP Books
+
+* [Pair Programming Illuminated](http://www.amazon.de/Pair-Programming-Illuminated-Laurie-Williams/dp/0201745763)
+* [Agile Development](http://www.amazon.de/Art-Agile-Development-James-Shore-ebook/dp/B00F8QCK0E/ref=sr_1_1?s=books-intl-de&ie=UTF8&qid=1385560271&sr=1-1&keywords=agile+development)
+
 ## Methods
 
 * [Timebox](http://en.wikipedia.org/wiki/Timeboxing) 
@@ -14,6 +19,11 @@
 * [Feature Injection]( http://skillsmatter.com/podcast/agile-testing/feature-injection-and-bdd-pull-in-action) 
 * [The Land that Scrum Forgot]( http://www.youtube.com/watch?v=hG4LH6P8Syk)
 * [Magic Estimation]( http://campey.blogspot.de/2010/09/magic-estimation.html)
+* [NVC - Non Violent Communication](http://en.wikipedia.org/wiki/Nonviolent_Communication#Modes)
+* [Prime Directive for Retrospectives](http://www.retrospectives.com/pages/retroPrimeDirective.html)
+* [Twelfe Factor App](http://12factor.net/)
+* [YAGNI]("http://en.wikipedia.org/wiki/You_aren't_gonna_need_it")
+
 
 ## Organizing Scrum Teams
 
