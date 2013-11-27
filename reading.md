@@ -15,7 +15,7 @@
 * [The Land that Scrum Forgot]( http://www.youtube.com/watch?v=hG4LH6P8Syk)
 * [Magic Estimation]( http://campey.blogspot.de/2010/09/magic-estimation.html)
 
-## Organising Scrum Teams
+## Organizing Scrum Teams
 
 * [The fifth Disicpline](http://www.amazon.de/The-Fifth-Discipline-Rough-Cut/dp/0385517254/ref=sr_1_1?ie=UTF8&qid=1385453818&sr=8-1&keywords=the+fifth+discipline) 
 * [The Linchpin](http://www.amazon.de/Linchpin-Are-Indispensable-Seth-Godin-ebook/dp/B00354Y9ZU/ref=sr_1_1?ie=UTF8&qid=1385453831&sr=8-1&keywords=linchpin) 
