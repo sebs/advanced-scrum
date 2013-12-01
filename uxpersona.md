@@ -1,4 +1,4 @@
-# UX Persona Card Play
+# UX Persona Properties
 
 * Mental Model
   * Goal
